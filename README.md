@@ -21,5 +21,8 @@ In this project I have analyzed the impact of adding gates (specific task based 
 
 This project is based on transactions data of a UK based retailer. The project aims to find the insights related to the product and customers associated with the retailer. Appropriate data visualizations are done to emphasize the insights. A Market Basket Analysis is done create a product recommendation based on the products in cart for a customer.
 
+### Car Price Prediction (MLR and RFE)
+[(Project Link)](https://skmohap.github.io/CarPrice)
 
+The objective of the project is to prepare a model to predict car prices. Multiple Linear Regression is used to create the model and Recursive Feature Elimination is used to select appropriate covariates. The project includes visualizations and model diagnostics to obtain more accurate model. 
 
