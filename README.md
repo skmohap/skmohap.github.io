@@ -10,8 +10,8 @@ I am interested in Data Science and Analytics and always motivated to learn new 
 ## Projects
 
 ### A/B Testing of a mobile game
-[(Project Link)](https://skmohap.github.io/ABTesting/)
 [(Project Presentation)](https://skmohap.github.io/ABTesting/Presentation/)
+[(Project Link)](https://skmohap.github.io/ABTesting/)
 
 In this project I have analyzed the impact of adding gates (specific task based level) to different levels in the game on the player retention. The project uses bootstrap and statistical testing methods to determine whether adding gate at certain level significantly helps the retention or not.
 
