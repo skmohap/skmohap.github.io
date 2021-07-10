@@ -10,4 +10,5 @@ I am interested in Data Science and Analytics and always motivated to learn new 
 ## Projects
 
 ### Market Basket Analysis
+[Project Link](https://skmohap.github.io/Market Basket Analysis/)
 
