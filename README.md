@@ -24,5 +24,5 @@ This project is based on transactions data of a UK based retailer. The project a
 ### Car Price Prediction (MLR and RFE)
 [(Project Link)](https://skmohap.github.io/CarPrice)
 
-The objective of the project is to prepare a model to predict car prices. Multiple Linear Regression is used to create the model and Recursive Feature Elimination is used to select appropriate covariates. The project includes visualizations and model diagnostics to obtain more accurate model. 
+The objective of the project is to prepare a model to predict car prices. Multiple Linear Regression is used to create the model and Recursive Feature Elimination using Random Forest and Cross Validation is used to select appropriate covariates. The project includes visualizations and model diagnostics to obtain more accurate model. 
 
