@@ -7,7 +7,7 @@ I am interested in Data Science and Analytics and always motivated to learn new 
 
 ### [LinkedIn](https://www.linkedin.com/in/sameer-kumar-mohapatra/)
 
-## Projects
+## Academic Projects
 
 ### Car Price Prediction (MLR and RFE)
 [(Project Link)](https://skmohap.github.io/CarPrice)
