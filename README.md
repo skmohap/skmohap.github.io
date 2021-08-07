@@ -27,7 +27,7 @@ In this project I have analyzed the impact of adding gates (specific task based 
 This project is based on transactions data of a UK based retailer. The project aims to find the insights related to the product and customers associated with the retailer. Appropriate data visualizations are done to emphasize the insights. A Market Basket Analysis is done create a product recommendation based on the products in cart for a customer.
 
 ### Data Analysis of Movies on OTT media services
-[(Project Presentation)](https://skmohap.github.io/MoviesOTT/Report) 
+[(Project Report)](https://skmohap.github.io/MoviesOTT/Report) 
 
 Here, I have analyzed the movies on OTT media services and categorized the media services platforms based on content, genre, ratings etc and concluded with the recommendation of media services for specific movie types. 
 
