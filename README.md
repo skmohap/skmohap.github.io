@@ -14,8 +14,8 @@ I am interested in Data Science and Analytics and always motivated to learn new 
 [(Project Code)](https://skmohap.github.io/BikeDemand)
 
 
-Tool: Python; 
-Methods: Linear Regression, Decision Tree, Random Forest, Neural Networks, Prophet Forecasting Model
+Tool: Python;   
+Methods: Linear Regression, Decision Tree, Random Forest, Neural Networks, Prophet Forecasting Model  
 In this project, I am trying to predict the demand of bike in Washington DC area based on historical numbers and various other features such as weather conditions and calender day type.
 
 ### Car Price Prediction 
