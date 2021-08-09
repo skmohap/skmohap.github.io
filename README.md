@@ -9,7 +9,7 @@ I am interested in Data Science and Analytics and always motivated to learn new 
 
 ## Projects
 
-### Car Price Prediction (MLR and RFE)
+### Bike Demand Prediction
 [(Project Presentation)](https://skmohap.github.io/BikeDemand/Presentation)
 [(Project Code)](https://skmohap.github.io/BikeDemand)
 
